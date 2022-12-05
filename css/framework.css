@@ -3,15 +3,6 @@
     margin: 0 auto;
 }
 
-/* ROW */
-.row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin: 0 auto;
-}
-
-
 /* COL */
 /* Reset shrink e grow */
 
